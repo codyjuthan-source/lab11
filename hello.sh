@@ -2,8 +2,9 @@
 
 if [ "$#" -eq 1 ]
 then
-    echo "hello from bash $1"
+    echo "hi $1"
 else
     echo "need name as param"
 fi
 
+echo "hello from bash"

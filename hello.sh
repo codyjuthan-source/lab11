@@ -7,4 +7,4 @@ else
     echo "need name as param"
 fi
 
-echo "hello from bash"
+echo "Hello from bash"
